@@ -1,1 +1,3 @@
-Ahora si se puede enviar al commit ya que no estaba vacia la carpeta
+Tomas Murillo Aristizabal
+19
+Espero aprender mucho sobre programacion orientada a objetos y sus usos
