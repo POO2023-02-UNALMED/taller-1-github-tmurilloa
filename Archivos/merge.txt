@@ -2,3 +2,4 @@ Tomas Murillo Aristizabal
 19
 Espero aprender mucho sobre poo y sus diferentes usos
 Si se pudo subir la carpeta ya que ya no estaba vacia
+Es importante tener cuidado con modificar el mismo archivo ya que se produce un error y toca decidir con que cambios quedarse.
